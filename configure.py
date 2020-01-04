@@ -17,6 +17,8 @@ import io
 from distutils.spawn import find_executable as which
 from distutils.version import StrictVersion
 
+
+# This is a test #
 # If not run from node/, cd to node/.
 os.chdir(os.path.dirname(__file__) or '.')
 
